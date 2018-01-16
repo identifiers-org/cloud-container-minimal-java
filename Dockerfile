@@ -5,4 +5,4 @@
 # e.g. in case we need to replace the underlying Linux image.
 
 FROM anapsix/alpine-java:8_server-jre_unlimited
-MAINTAINER Manuel Bernal Llinares <mbdebian@gmail.com>
+LABEL maintainer="Manuel Bernal Llinares <mbdebian@gmail.com>"
